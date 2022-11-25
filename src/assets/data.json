@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": "0",
+      "title": "Happiness",
+      "body": "Whoever is happy will make others happy too",
+      "author": "Anne Frank"
+    },
+    {
+      "id": "1",
+      "title": "Learn",
+      "body": "Tell me and I forget. Teach me and I remember. Involve me and I learn",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "id": "2",
+      "title": "Rising",
+      "body": "The greatest glory in living lies not in never falling, but in rising every time we fall",
+      "author": "Nelson Mandela"
+    }
+  ]
+}
