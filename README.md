@@ -2,7 +2,7 @@
 My personal news feed app made with Vue.js and Vuex
 
 
-Start with:
+Run with:
 
 yarn install
 
